@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Sunshine In My Pocket",
+      "live": "https://jovial-shortbread-833faf.netlify.app/",
+      "git": "https://github.com/CodingGemSupreme/Sunshine-In-My-Pocket",
+      "image": "https://mcusercontent.com/2f8927d14f41758bfeba67442/images/9ea31a78-38ef-ca93-41d5-1bb02a86a4b1.gif"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Foli X Cure",
+      "live": "https://folixcure.herokuapp.com/",
+      "git": "https://github.com/CodingGemSupreme/folixcure",
+      "image": "https://user-images.githubusercontent.com/77770242/190539228-ad9e4c3e-3618-4ebd-a20a-789e88ed6415.png"
     }
   ]
